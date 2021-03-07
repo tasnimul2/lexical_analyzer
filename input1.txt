@@ -1,2 +1,7 @@
-x * var420 :=  (a + b) - 12 ++ -- ++-- incremen+ing ?
-        x:=abe * f + ((e -c) / 4) + + 556
+x * var420 :=  (x + y) - 12 ++ -- ++-- incremen+ing ? w 360variable316
+   v4r >>     x:=ace * q + ((w -e) / 4) + + 556;
+output : << 51;less>>>bigger
+input >>> !(1^2)%size;>>>thisIsAstringThatMustBeTrimmedCuzItsTooBig;
+largeNum:=1234567891011; 404notFound%wowza
+
+noSpace:=45036069(apple^banana)%food;Apple++Banana--*55/12+8-9<<>>moreWords>>>&~`:)

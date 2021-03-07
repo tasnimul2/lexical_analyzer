@@ -1,10 +1,106 @@
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
+IDENT, x
+MULT, *
+IDENT, var420
+BECOMES, :=
+LPAREN, (
+IDENT, x
+PLUS, +
+IDENT, y
+RPAREN, )
+MINUS, -
+NUMLIT, 12
+POSTINC, ++
+POSTDEC, --
+POSTINC, ++
+POSTDEC, --
+IDENT, incremen
+PLUS, +
+IDENT, ing
+NAL, ?
+IDENT, w
+NUMLIT, 360
+IDENT, variable316
+IDENT, v4r
+SRA, >>
+IDENT, x
+BECOMES, :=
+IDENT, ace
+MULT, *
+IDENT, q
+PLUS, +
+LPAREN, (
+LPAREN, (
+IDENT, w
+MINUS, -
+IDENT, e
+RPAREN, )
+DIV, /
+NUMLIT, 4
+RPAREN, )
+PLUS, +
+PLUS, +
+NUMLIT, 556
+SEMICOLON, ;
+IDENT, output
+NAL, :
+SLL, <<
+NUMLIT, 51
+SEMICOLON, ;
+IDENT, less
+SRL, >>>
+IDENT, bigger
+IDENT, input
+SRL, >>>
+BITOR, !
+LPAREN, (
+NUMLIT, 1
+BITXOR, ^
+NUMLIT, 2
+RPAREN, )
+MOD, %
+IDENT, size
+SEMICOLON, ;
+SRL, >>>
+IDENT, thisIsAstringThatMus
+SEMICOLON, ;
+IDENT, largeNum
+BECOMES, :=
+NUMLIT, 1234567891
+SEMICOLON, ;
+NUMLIT, 404
+IDENT, notFound
+MOD, %
+IDENT, wowza
+IDENT, noSpace
+BECOMES, :=
+NUMLIT, 45036069
+LPAREN, (
+IDENT, apple
+BITXOR, ^
+IDENT, banana
+RPAREN, )
+MOD, %
+IDENT, food
+SEMICOLON, ;
+IDENT, Apple
+POSTINC, ++
+IDENT, Banana
+POSTDEC, --
+MULT, *
+NUMLIT, 55
+DIV, /
+NUMLIT, 12
+PLUS, +
+NUMLIT, 8
+MINUS, -
+NUMLIT, 9
+SLL, <<
+SRA, >>
+IDENT, moreWords
+SRL, >>>
+BITAND, &
+NAL, ~
+NAL, `
+NAL, :
+RPAREN, )
+EOI, End of Input
